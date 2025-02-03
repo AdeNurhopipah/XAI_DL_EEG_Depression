@@ -2,8 +2,6 @@
 % Sub: Example on spectral domain using ERSP 
 % Experiment design from: 
 % Ravindan, A.S. & Conteras-Vidal J (2023) 
-% "An Empirical Comparison of Deep Learning Explainability Approaches for EEG
-% using Simulated Ground Truth"
 
 
 function generate_random_spectral(class, SNR)
