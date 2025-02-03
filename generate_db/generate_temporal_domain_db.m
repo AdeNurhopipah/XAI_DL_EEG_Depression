@@ -1,9 +1,7 @@
 % Generate simulated dataset 
-% Sub: Example on temporal domain using ERP 
+% Sub: Example on the temporal domain using ERP 
 % Experiment design from: 
 % Ravindan, A.S. & Conteras-Vidal J (2023) 
-% "An Empirical Comparison of Deep Learning Explainability Approaches for EEG
-% using Simulated Ground Truth"
 
 
 function generate_temporal_domain_db(class, SNR) 
