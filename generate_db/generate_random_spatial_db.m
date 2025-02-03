@@ -1,5 +1,5 @@
 % Generate simulated dataset 
-% Sub: Example on spatial domain using ERSP and ERP 
+% Sub: Example on the spatial domain using ERSP and ERP 
 % Experiment design from: 
 % Ravindan, A.S. & Conteras-Vidal J (2023) 
 
