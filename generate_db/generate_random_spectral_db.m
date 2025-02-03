@@ -1,5 +1,5 @@
 % Generate simulated dataset 
-% Sub: Example on spectral domain using ERSP 
+% Sub: Example on the spectral domain using ERSP 
 % Experiment design from: 
 % Ravindan, A.S. & Conteras-Vidal J (2023) 
 
