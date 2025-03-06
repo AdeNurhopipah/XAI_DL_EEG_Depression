@@ -1,5 +1,13 @@
 """
+EEG Explainable AI (XAI) Implementation on Real EEG Dataset
 
+- Loads a pre-trained EEG classification model.
+- Pre-processes EEG data (normalisation, filtering, segmentation).
+- Performs inference and evaluates model performance.
+- Applies different XAI methods (e.g., DeepLIFT, LRP, Grad-CAM) to generate explanations.
+- Identifies the most important EEG channels contributing to the classification.
+- Saves evaluation results, top-channel rankings, and topographic maps.
+- Outputs confusion matrices and visualisations for interpretability (topomaps and barchart)
 
 """
 
