@@ -22,6 +22,9 @@ Visualization and Analysis:
 - VisualizeWeights: Displays model weights as heatmaps.
 - RandomiseWeights: Randomizes model weights for robustness testing.
 
+Author: Ade Nurhopipah
+Email: ade.nurhopipah@postgrad.otago.ac.nz
+
 '''
 
 # Import dependencies
