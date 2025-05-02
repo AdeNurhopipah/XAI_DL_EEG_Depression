@@ -6,13 +6,13 @@ This resource contains:
 
    - Download SEREGA and the documentation at: https://github.com/lrkrol/SEREEGA.
    
-   - The generated dataset follows the design by Ravindran and Contreras-Vidal (2023), https://doi.org/10.1038/s41598-023-43871-8.   
+   - The generated dataset code follows the design by Ravindran and Contreras-Vidal (2023), https://doi.org/10.1038/s41598-023-43871-8, saved in generate_db folder.
 
 3. Load, train and evaluate synthetic dataset.
 
    Steps to follow :
 
-   - Load synthetic datasets and do pre-processing
+   - Load synthetic datasets and do pre-processing 
      
    - Train with DL models
      
