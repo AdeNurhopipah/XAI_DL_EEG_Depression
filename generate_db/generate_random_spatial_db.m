@@ -1,6 +1,6 @@
 % Generate simulated EEG dataset
 % Example: Spatial domain using combined ERSP and ERP features
-% Based on the design from: Ravindran, A.S. & Contreras-Vidal, J.L. (2023)
+% Based on the design from: Ravindran, A.S. & Contreras-Vidal, J. (2023)
 
 % Author: Ade Nurhopipah
 % Email: ade.nurhopipah@postgrad.otago.ac.nz
