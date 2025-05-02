@@ -12,13 +12,11 @@ This resource contains:
 
    Steps to follow :
 
-   - Load synthetic datasets and do pre-processing (load_ 
+   - Load synthetic datasets and do pre-processing (load_sereega_db.py)
      
-   - Train with DL models
+   - Train with DL models (train_sereega_db.py)
      
-   - Implement XAI methods on the model
-  
-   - Do sensitivity and robustness test
+   - Implement XAI methods on the model and do sensitivity and robustness tests (sensitivity_eval.py and robustness_eval.py)
    
 5. Load, train and evaluate real EEG datasets in Depression analysis
 
@@ -30,8 +28,6 @@ This resource contains:
 
      MPHC (https://figshare.com/articles/dataset/EEG_Data_New/4244171)
 
-   - Train the dataset using DL models
+   - Train the dataset using DL models (real_db_eval/train_eeg_hold_out.py)
      
-   - Implement XAI methods on the model
-
-   - Get feature important and topographic maps
+   - Implement XAI methods on the model to get feature importance and topographic maps (real_db_eval/apply_xai_abs.py)
