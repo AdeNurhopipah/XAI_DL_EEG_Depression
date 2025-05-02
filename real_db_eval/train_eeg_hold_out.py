@@ -9,6 +9,9 @@ This script trains an EEG real dataset model.
 5. Computes average and standard deviation of performance metrics 
 6. Save and display summary
 
+Author: Ade Nurhopipah
+Email: ade.nurhopipah@postgrad.otago.ac.nz
+
 """
 
 #Dependencies
