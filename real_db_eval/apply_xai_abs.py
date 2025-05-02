@@ -9,6 +9,9 @@ EEG Explainable AI (XAI) Implementation on Real EEG Dataset
 - Saves evaluation results, top-channel rankings, and topographic maps.
 - Outputs confusion matrices and visualisations for interpretability (topomaps and barchart)
 
+Author: Ade Nurhopipah
+Email: ade.nurhopipah@postgrad.otago.ac.nz
+
 """
 
 #dependencies
