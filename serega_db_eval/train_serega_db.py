@@ -8,6 +8,8 @@ and saving results. Key sections include:
    - For each fold, selects and trains the model, saves the best fold model, and evaluates on test data.
 - Summary: Prints experiment details, model summary, and training metrics, and saves results to an Excel file.
 
+Author: Ade Nurhopipah
+Email: ade.nurhopipah@postgrad.otago.ac.nz
 """
 
 #Dependencies
