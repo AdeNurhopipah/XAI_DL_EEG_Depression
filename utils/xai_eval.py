@@ -24,6 +24,8 @@ Visualisation:
 - TopoplotChan: Creates a topographical brain map using averaged XAI scores.
 - BarplotChan: Creates a bar plot using averaged XAI scores.
 
+Author: Ade Nurhopipah
+Email: ade.nurhopipah@postgrad.otago.ac.nz
 '''
 
 #dependencies
