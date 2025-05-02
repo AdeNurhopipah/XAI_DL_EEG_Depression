@@ -136,8 +136,8 @@ function generate_random_spectral(class, SNR)
             eeg_db = simulated_eeg;
             gt_eeg = pure_eeg;
         else
-            eeg_db = utl_reorder_eeglabdataset(pop_mergeset(eeg_db, simulated_eeg));
-            gt_eeg = utl_reorder_eeglabdataset(pop_mergeset(gt_eeg, pure_eeg));
+            eeg_db = pop_mergeset(eeg_db, simulated_eeg);
+            gt_eeg = pop_mergeset(gt_eeg, pure_eeg);
         end
 
     end
