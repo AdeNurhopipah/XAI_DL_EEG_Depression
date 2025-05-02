@@ -8,11 +8,11 @@ This resource contains:
    
    - The generated dataset code follows the design by Ravindran and Contreras-Vidal (2023), https://doi.org/10.1038/s41598-023-43871-8, saved in generate_db folder.
 
-3. Load, train and evaluate synthetic dataset.
+3. Load, train and evaluate synthetic dataset (sereega_db_eval folder)
 
    Steps to follow :
 
-   - Load synthetic datasets and do pre-processing 
+   - Load synthetic datasets and do pre-processing (load_ 
      
    - Train with DL models
      
