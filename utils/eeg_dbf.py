@@ -17,6 +17,8 @@ Functions:
     - PlotData: Plots EEG data for a specific class across channels.
     - PlotChannels: Plots individual channel data for an EEG sample.
 
+Author: Ade Nurhopipah
+Email: ade.nurhopipah@postgrad.otago.ac.nz
 """
 
 #Dependencies
