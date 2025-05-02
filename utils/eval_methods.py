@@ -7,6 +7,9 @@ Functions:
     - calculate_cosine_similarity: Computes cosine similarity between attribution and ground truth maps.
     - calculate_pearson_cor: Computes Pearson correlation to assess robustness between original and perturbed maps.
     - calculate_ssim: Computes Structural Similarity Index (SSIM) between original and perturbed maps.
+
+Author: Ade Nurhopipah
+Email: ade.nurhopipah@postgrad.otago.ac.nz
 """
 
 from numpy import sum, linalg, dot, ravel, std, corrcoef, max, min, isnan, mean
