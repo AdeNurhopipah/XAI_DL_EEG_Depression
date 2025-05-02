@@ -1,3 +1,15 @@
+"""
+This script evaluates the robustness of various XAI (eXplainable AI) methods applied to EEG classification models
+trained on synthetic SEREEGA datasets. It loads EEG data, ground truth, and labels, then compares original models
+against randomised ones (by weight or label) across multiple folds. For each fold, it computes robustness scores 
+(e.g., Pearson Correlation, SSIM) for a range of XAI techniques and saves the results to Excel files.
+
+Supported domains include temporal, spectral, and spatial data, with model choices such as EEGNet and TwoDCNN.
+
+Author: Ade Nurhopipah
+Email: ade.nurhopipah@postgrad.otago.ac.nz
+"""
+
 from argparse import ArgumentParser
 from torch import load as torch_load, save
 from pandas import DataFrame, ExcelWriter
