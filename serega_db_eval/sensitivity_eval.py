@@ -1,3 +1,17 @@
+"""
+This script evaluates the sensitivity of various XAI (eXplainable AI) methods applied to EEG classification models
+trained on synthetic SEREEGA datasets. It loads EEG signals, ground truth, and labels, then compares the alignment
+between XAI-based relevance maps and ground-truth source activations across multiple folds.
+
+For each fold, the script applies a range of XAI techniques to the best-performing model, computes sensitivity
+metrics (e.g., RMA or CS depending on domain), and saves results into Excel files for later analysis.
+
+Supported domains include temporal, spectral, and spatial, and the model choices include EEGNet and TwoDCNN.
+
+Author: Ade Nurhopipah
+Email: ade.nurhopipah@postgrad.otago.ac.nz
+"""
+
 from argparse import ArgumentParser
 from torch import load as torch_load
 from pandas import DataFrame, ExcelWriter
