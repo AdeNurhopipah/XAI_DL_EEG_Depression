@@ -1,7 +1,8 @@
 % Generate simulated dataset 
 % Sub: Example on the temporal domain using ERP 
-% Experiment design from: 
-% Ravindan, A.S. & Conteras-Vidal J (2023) 
+% Experiment design from: Ravindan, A.S. & Conteras-Vidal J (2023) 
+% Author: Ade Nurhopipah
+% Email: ade.nurhopipah@postgrad.otago.ac.nz
 
 function generate_random_temporal(class, SNR) 
     % Check the number of input arguments and set default values if necessary
