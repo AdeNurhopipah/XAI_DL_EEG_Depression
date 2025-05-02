@@ -31,3 +31,5 @@ This resource contains:
    - Train the dataset using DL models (real_db_eval/train_eeg_hold_out.py)
      
    - Implement XAI methods on the model to get feature importance and topographic maps (real_db_eval/apply_xai_abs.py)
+
+This XAI implementation uses Captum (https://captum.ai/) and Pytorch-GradCam packages (https://github.com/jacobgil/pytorch-grad-cam). 
