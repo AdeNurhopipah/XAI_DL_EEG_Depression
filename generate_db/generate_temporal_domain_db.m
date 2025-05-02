@@ -1,6 +1,7 @@
 % Generate simulated dataset 
 % Sub: Example on the temporal domain using ERP 
-% Experiment design from: Ravindan, A.S. & Conteras-Vidal J (2023) 
+% Based on the design from: Ravindran, A.S. & Contreras-Vidal, J. (2023)
+
 % Author: Ade Nurhopipah
 % Email: ade.nurhopipah@postgrad.otago.ac.nz
 
