@@ -1,5 +1,4 @@
-# EEG_XAI_Depression
-Implementation of XAI methods in Depression Classification based on EEG and DL 
+# Implementation of XAI methods in Depression Classification based on EEG and DL 
 
 This resource contains:
 1. Generate a synthetic EEG dataset using SEREEGA tools on EEGLab. 
