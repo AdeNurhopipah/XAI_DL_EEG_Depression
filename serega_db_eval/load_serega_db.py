@@ -3,6 +3,9 @@ This script loads the Serega EEG synthetic dataset, normalises the data, shuffle
 and then saves the processed data and channel names as .npy files for future use. It also includes functionality to display sample
 EEG data before and after normalisation.
 
+Author: Ade Nurhopipah
+Email: ade.nurhopipah@postgrad.otago.ac.nz
+
 """
 
 # Dependencies 
