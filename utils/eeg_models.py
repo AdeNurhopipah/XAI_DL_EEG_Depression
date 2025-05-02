@@ -1,3 +1,4 @@
+
 """
 This module includes modified CNN models for EEG Depression classification tasks. 
 1. TempCNN : Acharyaa, et al (2018), doi: 10.1016/j.cmpb.2018.04.012
@@ -11,6 +12,9 @@ Note:
 ensuring consistency in gradient-based interpretability methods.
 - Remove Softmax to keep only the raw logits, preserving the meaningful gradients necessary for effective feature attribution. 
 - Same padding ensures consistent output size, retains more features, and improves gradient flow.
+
+Author: Ade Nurhopipah
+Email: ade.nurhopipah@postgrad.otago.ac.nz
 """      
  
 from torch import nn
