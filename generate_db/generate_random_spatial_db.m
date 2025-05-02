@@ -1,7 +1,8 @@
 % Generate simulated dataset 
 % Sub: Example on the spatial domain using ERSP and ERP 
-% Experiment design from: 
-% Ravindan, A.S. & Conteras-Vidal J (2023) 
+% Experiment design from: Ravindan, A.S. & Conteras-Vidal J (2023) 
+% Author: Ade Nurhopipah
+% Email: ade.nurhopipah@postgrad.otago.ac.nz
 
 
 function generate_random_spatial(class, SNR)
